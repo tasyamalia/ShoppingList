@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#F4E7E7',
+    backgroundColor: '#FFFFFF',
   },
   banner_image: {
     width: 200,
